@@ -1,5 +1,5 @@
 # Pronunciation Practice App (IlmHub)
-The Pronunciation Practice App is a web app that helps users practice their pronunciation of Arabic using the Tashkeel (diacritics) and the Arabic alphabet found in the Quran. This app was built for use by the IlmHub organization with the aim of helping young children (k-8) learn and practice their pronunciation of the Quran. The app is built using the Django framework and is hosted on Heroku. The app is currently in development.
+The Pronunciation Practice App is a web app that helps users practice their pronunciation of Arabic using the Tashkeel (diacritics) and the Arabic alphabet found in the Quran. This app was built for use by the IlmHub organization with the aim of helping young children (k-8) learn and practice their pronunciation of the Quran. The app is built using the Django framework and is hosted on Heroku.
 
 ## Table of Contents
 [Live Link](#live-link)\
